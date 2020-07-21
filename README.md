@@ -7,6 +7,7 @@
 - Combine Framework
 - MVVM Pattern
 - Repository Pattern
+- Api Mockadas em https://www.mockapi.io/
 
 
 # TODO: Melhorias a serem desenvolvidas neste estudo
