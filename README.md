@@ -1,5 +1,5 @@
 # ios-swiftui-crud
-  Projeto de estudos/teste de CRUD usando SwiftUI e Combine
+  Projeto de estudos/teste de CRUD usando SwiftUI e MVVM
   
   
 # Tecnologias / Arquitetura utilizada
