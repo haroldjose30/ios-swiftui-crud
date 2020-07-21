@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4AE70F62-844C-4C7B-BD71-A381A3A6F4F7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "CustomersListPage"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - 304eec7226b09921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of ios_swiftui.CustomersListPage.viewmodel : ios_swiftui.CustomersListViewModel"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - fe83a5dd7c8e7eed"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_swiftui.CustomersListPage.viewmodel.getter : ios_swiftui.CustomersListViewModel"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - 6fede88b67d006e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_swiftui.CustomersListPage.viewmodel.setter : ios_swiftui.CustomersListViewModel"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - 13cf8e0e3612ecf2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_swiftui.CustomersListPage.viewmodel.modify : ios_swiftui.CustomersListViewModel"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - b9a4831020c15fff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_swiftui.CustomersListPage.viewmodel.modify : ios_swiftui.CustomersListViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "F9B91FA4-F845-4EF9-888A-5A959EE7D4EB - 980b083b811db1ee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ios_swiftui.CustomersListPage.$viewmodel.getter : SwiftUI.ObservedObject&lt;ios_swiftui.CustomersListViewModel&gt;.Wrapper"
+                  moduleName = "ios.swiftui"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haroldjose30/Projects/github/haroldjose30/ios-mvvm-crud/ios.swiftui/ios.swiftui/Views/CustomersList/CustomersListPage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
